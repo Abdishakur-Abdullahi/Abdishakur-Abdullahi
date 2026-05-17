@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**Abdishakur-Abdullahi/Abdishakur-Abdullahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Abdishakur 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Student at SIMAD University,
+💻 Also a MERN Full Stack Developer.
+📊 Currently learning Data Analysis
+💻 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* SQL
+* Excel
+* Power BI
+* Git & GitHub
+
+## Goals
+
+* Become a professional Data Analyst
+* Build real-world projects
+* Share my learning journey
+
+## Current Learning
+
+* Data Cleaning
+* Data Visualization
+* Pandas
+* NumPy
+* SQL Queries
+
+## Connect With Me
+
+* LinkedIn
+* TikTok
+* Portfolio (future)
